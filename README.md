@@ -49,4 +49,3 @@
 - `scikit-learn`, `pandas`, `flask` (if backend/API used)  
 - Power BI Desktop (for dashboard files)
 
-## Screenshots
